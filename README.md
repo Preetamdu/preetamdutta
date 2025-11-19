@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preetam Dutta</h1>
-<h3 align="center">Cybersecurity Analyst @ TCS | Embedded Engineer | CEO of Essy2Learning</h3>
+<h3 align="center">Cybersecurity Analyst @ TCS | Embedded Engineer | PAM Engineer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Cybersecurity%20Engineer-blue" />
