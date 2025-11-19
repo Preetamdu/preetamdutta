@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm <b>Preetam Dutta</b></h1>
-<p align="center">Cybersecurity Analyst @ TCS • Embedded Engineer • CEO @ Essy2Learning — SOC automation, IIoT & teaching</p>
+<p align="center">Cybersecurity Analyst @ TCS • SOC L2 & Compliance Analyst •SOC automation, PAM L1 Engineer</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">LinkedIn</a> ·
